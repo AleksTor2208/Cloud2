@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GaJl/MAV8oL0R8Ub6B+5KyUO977tpXeQIwAvQAVzj4M=",
+  "Source": "CloudAppWebApi",
+  "BasePath": "_content/CloudAppWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
